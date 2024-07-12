@@ -382,7 +382,73 @@ margin-top:0.5rem ;
 .volume-bar{
     height:2px;
     margin-top:1rem ;
+    
+}
 
+@media(max-width:460px){
+   .sidebar {
+   width:173px;
 
 }
+.music-player{
+    width:100% ;
+}
+.part1{
+    
+    display: flex;
+    justify-items: center;
+    margin-left: 5rem;
+    width:100%; ;
+}
+
+.part2,.part3{
+    display:none ;
+}
+
+.cards-container{
+   
+    width:90%;
+    flex-wrap: wrap;
+}
+.cards h2{
+    font-size:1.3rem ;
+}
+.sticky-nav-icons img {
+    height:12px ;
+    display: flex;
+}
+.sticky-nav-option button  {
+    height:1.2rem ;
+    display: flex;
+    font-size:6px ;
+}
+#iii{
+    display:none ;
+}
+.lib-box{
+    width:160px;
+   
+}
+.box{
+    overflow: scroll;
+}
+.box button{
+    font-size: 0.6rem;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
