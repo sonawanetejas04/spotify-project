@@ -434,9 +434,14 @@ margin-top:0.5rem ;
 .box button{
     font-size: 0.6rem;
 }
+    .icons{
+    display: none;
+}
+    .iii{
+         display: none;
 
 }
-
+}
 
 
 
